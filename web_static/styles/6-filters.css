@@ -76,6 +76,10 @@
     z-index: 1;
 }
 
+.popover ul li{
+    list-style-type: none;
+}
+
 .locations:hover .popover{
     display: block;
 }
